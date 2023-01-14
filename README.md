@@ -3,7 +3,7 @@
 </h1>
 
 ## Salam! 👋
-In Bot Yeki Az Cloner Haye Khobe Farsi Baraye Azizani Ke Mikhan Cloner Dashte Bashan :))
+In Tools Yeki Az Cloner Haye Khobe Farsi Baraye Azizani Ke Mikhan Cloner Dashte Bashan :))
 
 - 🛠️ Developer [Pa9da ᶦᶜᵉ#0001](https://github.com/pa9da)
 
